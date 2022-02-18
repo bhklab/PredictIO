@@ -18,7 +18,7 @@ Several genomics and gene expression signatures have been proposed as predictive
 ## System Requirements
 
 ### Hardware Requirements
-Running the scripts present in this repository only requires a standard computer with enough RAM to support the operations defined by a user. For minimal performance, this will be a computer with about 2 GB of RAM. For optimal performance, we recommend a computer with the following specs:
+Running the scripts present in this repository only requires a standard computer with enough RAM to support the operations needed. For minimal performance, these analysis will need a computer with about 2 GB of RAM. For optimal performance, we recommend a computer with the following specs:
 
 RAM: 16+ GB
 CPU: 4+ cores, 3.3+ GHz/core
