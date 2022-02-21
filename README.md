@@ -39,6 +39,21 @@ install.packages( c( 'BiocManager' , 'R.utils' , 'RColorBrewer' , 'SuppDists' , 
 BiocManager::install( c( 'Biobase' , 'BiocVersion' , GSVA' , genefu' , survcomp' ) )
 ```
 
+Command to install the TIDE (Tumor Immune Dysfunction and Exclusion) python module.
+
+
+- Clone from github
+
+```
+$ git clone git@github.com:jingxinfu/TIDEpy.git
+$ cd TIDEpy
+$ pip install .
+```
+- From the pypi, a python package management tool
+```
+$ pip install tidepy
+```
+
 The installation of the dependencies should take approximately few minutes to completely run on a recommended computer.
 
 
